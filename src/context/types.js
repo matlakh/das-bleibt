@@ -1,0 +1,36 @@
+export const OPEN_MENU = 'OPEN_MENU'
+export const CLOSE_MENU = 'CLOSE_MENU'
+
+export const OPEN_AUTH = 'OPEN_AUTH'
+export const CLOSE_AUTH = 'CLOSE_AUTH'
+
+export const GET_ROOMS = 'GET_ROOMS'
+export const SET_LOADING = 'SET_LOADING'
+export const GET_ROOM = 'GET_ROOM'
+
+export const AUTH_LOGOUT = 'AUTH_LOGOUT'
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+
+export const OPEN_SUCCESS = 'OPEN_SUCCESS'
+export const CLOSE_SUCCESS = 'CLOSE_SUCCESS'
+
+export const TAKE_TEXT = 'TAKE_TEXT'
+
+export const CALENDAR_DATE = 'CALENDAR_DATE'
+export const SHOW_ROOMS = 'SHOW_ROOMS'
+export const SHOW_ANIMALS = 'SHOW_ANIMALS'
+export const SHOW_SUMMARY = 'SHOW_SUMMARY'
+export const SHOW_PERSONALINFO = 'SHOW_PERSONALINFO'
+export const SELECT_ROOM = 'SELECT_ROOM'
+export const SELECT_ROOM_PRICE = 'SELECT_ROOM_PRICE'
+export const SELECT_ANIMALS_TRUE = 'SELECT_ANIMALS_TRUE'
+export const SELECT_ANIMALS_FALSE = 'SELECT_ANIMALS_FALSE'
+
+export const EDIT_DATE = 'EDIT_DATE'
+export const EDIT_ROOMS = 'EDIT_ROOMS'
+export const EDIT_ANIMALS = 'EDIT_ANIMALS'
+
+export const CHANGE_INPUT = 'CHANGE_INPUT'
+export const COMPLETE_BOOKING = 'COMPLETE_BOOKING'
+export const CHANGE_PHONE = 'CHANGE_PHONE'
+export const VALIDATE_FORM = 'VALIDATE_FORM'

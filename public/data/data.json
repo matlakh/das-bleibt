@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "name": "Grand Suite",
+        "square": "75",
+        "persons": "6",
+        "cost": 309,
+        "roomImg": "https://firebasestorage.googleapis.com/v0/b/das-bleibt.appspot.com/o/room1.jpg?alt=media&token=1f99e2d0-3363-4d61-8436-1f86ede651da"
+    },
+    {
+        "id": 2,
+        "name": "Cosy Suite",
+        "square": "60",
+        "persons": "6",
+        "cost": 274,
+        "roomImg": "https://firebasestorage.googleapis.com/v0/b/das-bleibt.appspot.com/o/room2.jpg?alt=media&token=67203ddc-5bd8-4ea4-b21b-1b8a85fb5bba"
+    },
+    {
+        "id": 3,
+        "name": "Garden Suite",
+        "square": "100",
+        "persons": "6",
+        "cost": 339,
+        "roomImg": "https://firebasestorage.googleapis.com/v0/b/das-bleibt.appspot.com/o/room3.jpg?alt=media&token=d9c83e12-9e69-4aeb-aad1-3f3c8a9e7bb4"
+    },
+    {
+        "id": 4,
+        "name": "Panorama Suite",
+        "square": "70",
+        "persons": "6",
+        "cost": 329,
+        "roomImg": "https://firebasestorage.googleapis.com/v0/b/das-bleibt.appspot.com/o/room4.jpg?alt=media&token=8da38f67-fa53-45b2-bd77-3c9779dd3ea9"
+    },
+    {
+        "id": 5,
+        "name": "Comfort Studio",
+        "square": "40",
+        "persons": "4",
+        "cost": 159,
+        "roomImg": "https://firebasestorage.googleapis.com/v0/b/das-bleibt.appspot.com/o/room5.jpg?alt=media&token=e8719b32-6a3b-4036-9dda-ef47273998db"
+    },
+    {
+        "id": 6,
+        "name": "Penthouse Studio",
+        "square": "40",
+        "persons": "4",
+        "cost": 204,
+        "roomImg": "https://firebasestorage.googleapis.com/v0/b/das-bleibt.appspot.com/o/room6.jpg?alt=media&token=30de5bbf-e41d-415d-a2c4-6db43c3fb70e"
+    },
+    {
+        "id": 7,
+        "name": "Garden Studio",
+        "square": "60",
+        "persons": "4",
+        "cost": 204,
+        "roomImg": "https://firebasestorage.googleapis.com/v0/b/das-bleibt.appspot.com/o/room7.jpg?alt=media&token=5b7c910f-0961-43cf-a06a-70803cb503d5"
+    }
+]
