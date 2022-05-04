@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/das-bleibt/static/css/main.8d87a7b2.css",
-    "main.js": "/das-bleibt/static/js/main.e311a2ce.js",
+    "main.css": "/das-bleibt/static/css/main.d5b147f7.css",
+    "main.js": "/das-bleibt/static/js/main.7e893350.js",
     "static/js/787.9422602e.chunk.js": "/das-bleibt/static/js/787.9422602e.chunk.js",
     "static/media/TrioGrotesk-Medium-70b0d7eb.woff2": "/das-bleibt/static/media/TrioGrotesk-Medium-70b0d7eb.70b0d7eb261659580925.woff2",
     "static/media/Graphik-Regular-42a9b773.woff2": "/das-bleibt/static/media/Graphik-Regular-42a9b773.42a9b7733ff5f4bc9df8.woff2",
     "static/media/RoslindaleDisplayCondensed-Regular-d44cc8ae.woff2": "/das-bleibt/static/media/RoslindaleDisplayCondensed-Regular-d44cc8ae.d44cc8aeaedb5d991a2e.woff2",
     "index.html": "/das-bleibt/index.html",
-    "main.8d87a7b2.css.map": "/das-bleibt/static/css/main.8d87a7b2.css.map",
-    "main.e311a2ce.js.map": "/das-bleibt/static/js/main.e311a2ce.js.map",
+    "main.d5b147f7.css.map": "/das-bleibt/static/css/main.d5b147f7.css.map",
+    "main.7e893350.js.map": "/das-bleibt/static/js/main.7e893350.js.map",
     "787.9422602e.chunk.js.map": "/das-bleibt/static/js/787.9422602e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d87a7b2.css",
-    "static/js/main.e311a2ce.js"
+    "static/css/main.d5b147f7.css",
+    "static/js/main.7e893350.js"
   ]
 }
