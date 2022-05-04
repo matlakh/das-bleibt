@@ -11,7 +11,7 @@ const BookPageCalendar = (props) => {
                 onChange={props.onChange}
                 showSelectionPreview={false}
                 moveRangeOnFirstSelection={false}
-                months={2}
+                months={3}
                 ranges={props.ranges}
                 showDateDisplay={false}
                 staticRanges={[]}

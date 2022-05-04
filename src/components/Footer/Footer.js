@@ -30,7 +30,7 @@ const Footer = () => {
                                 </Link>
                             </li>
                             <li>
-                                <Link className="footer__socials--link" to="https://www.instagram.com/nmatlakh/">
+                                <Link className="footer__socials--link" to="https://docs.google.com/document/d/1bERXYUVp619RXfKQfkNZ_y6tZxEu16culq3y_KNostQ/edit?usp=sharing">
                                     <span className="footer__socials--img">
                                         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                                             width="15" height="15"

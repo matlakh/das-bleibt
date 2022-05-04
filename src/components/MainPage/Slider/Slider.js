@@ -1,10 +1,15 @@
-import React from "react";
+import React, { useEffect } from "react";
 import SliderSwiper from "./SliderComponents/SliderSwiper";
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+
 
 function Slider() {
-
+    useEffect(() => {
+        AOS.init();
+    }, []);
     return (
-        <section className="slider">
+        <section className="slider" data-aos="fade-up">
             <div className="container">
                 <SliderSwiper></SliderSwiper>
             </div>

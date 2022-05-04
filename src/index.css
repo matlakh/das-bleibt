@@ -723,9 +723,7 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: end;
-    -ms-flex-align: end;
-    align-items: flex-end;
+    align-items: center;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
@@ -1944,8 +1942,6 @@ abbr[title] {
     cursor: pointer;
 }
 
-.book-page__rooms {}
-
 .book-page__card {
     display: flex;
     justify-content: space-between;
@@ -2346,6 +2342,11 @@ abbr[title] {
     .book-page__animals--buttons {
         max-width: 40%;
     }
+    .rdrMonths {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 @media(max-width:600px) {
@@ -2418,11 +2419,6 @@ abbr[title] {
         width: 15px;
         height: 15px;
     }
-    .rdrMonths {
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
     .book-page__summary {
         max-width: 100%;
     }
@@ -2492,4 +2488,9 @@ abbr[title] {
     .book-page__summary--content {
         padding: 8px 0;
     }
+}
+
+.form-text {
+    color: #fff;
+    font-size: 10px;
 }

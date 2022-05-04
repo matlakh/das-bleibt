@@ -1,6 +1,4 @@
 import React, { useContext, useRef } from "react";
-import { AuthContext } from "../../../context/auth/authContext";
-import { MenuContext } from "../../../context/menu/menuContext";
 
 const ModalForm = (props) => {
     return (
@@ -12,7 +10,9 @@ const ModalForm = (props) => {
             <div className="footer__input--container">
                 <input ref={props.passwordRef} type="password" name="name" className="footer__input" placeholder="Password" required />
                 <span className="footer__input--indecator"></span>
+               
             </div>
+            <span className="form-text">Must be longer than 6 symbols</span>
             <div className="footer__checkbox--container">
                 <input type="checkbox" defaultChecked name="policy" className="footer__checkbox--input" />
                 <span className="footer__checkbox"></span>
