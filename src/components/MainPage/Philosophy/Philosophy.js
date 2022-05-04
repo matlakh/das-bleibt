@@ -1,7 +1,13 @@
-import React from "react";
+import React, { useEffect } from "react";
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+
 const OurPhilosophy = () => {
+    useEffect(() => {
+        AOS.init();
+    }, []);
     return (
-        <section className="philosophy">
+        <section className="philosophy" data-aos="fade-up">
             <div className="container">
                 <div className="philosophy__inner">
                     <h4 className="philosophy__title">Our philosophy</h4>

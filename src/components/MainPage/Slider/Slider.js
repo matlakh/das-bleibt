@@ -5,11 +5,9 @@ import 'aos/dist/aos.css'
 
 
 function Slider() {
-    useEffect(() => {
-        AOS.init();
-    }, []);
+  
     return (
-        <section className="slider" data-aos="fade-up">
+        <section className="slider" >
             <div className="container">
                 <SliderSwiper></SliderSwiper>
             </div>

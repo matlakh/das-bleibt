@@ -13,7 +13,7 @@ const RoomTypes = () => {
         AOS.init();
     }, []);
     return (
-        <section className="rooms-type">
+        <section className="rooms-type" data-aos="fade-up">
             <div className="container">
                 <h2 className="rooms-type__title" >Whatever you like.</h2>
                 <p className="rooms-type__text">
