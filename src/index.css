@@ -412,7 +412,6 @@ body {
     height: calc(100vh - 250px);
     max-height: 1000px;
     background-size: cover;
-    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
 }
